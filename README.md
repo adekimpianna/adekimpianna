@@ -24,6 +24,7 @@ And belive me, you will need a _social_ person to do that! = ME!
 ---
 
 ## What do I do
+```
 * Content and Social Media Marketing
   * Youtube
   * Instagram
@@ -35,12 +36,13 @@ And belive me, you will need a _social_ person to do that! = ME!
   * Google Shopping
   * WooCommerce, Shopify
 * Email Marketing
+```
 
 ---
 
 ## Where to reach me
 | Direct | Social Media |
-|---|---|
+| ------ | ------ |
 | adek.impianna@gmail.com | [Github](https://github.com/adekimpianna) | 
 | +32 abcdefghijkl | [LinkedIn](https://www.linkedin.com/in/adek-impianna-62a119161/) | 
 
