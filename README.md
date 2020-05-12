@@ -6,8 +6,9 @@
 
 > _Pretty soon to be able to be your developer as well!_  
 
-* [Service](##what-do-i-do)
-* [Contact](##where-to-reach-me)
+* [Professional Background](#who-i-am)
+* [Service Offered](#what-do-i-do)
+* [Contact](#where-to-reach-me)
 
 ---
 
@@ -16,9 +17,9 @@ I am a **digital enthusiast** who has an experience in E-Commerce and now dedica
 
 The great thing is **I am business graduate!** From _Solvay Business School - VUB master program._ Thus, market and customer research are my day to day food. Wait, _who says that digital marketing is all about ranking?_ Then, you are not even halfway there...
 
-> **Digital marketing is more about customer experience!** 
+> _**Digital marketing is more about customer experience!**_ 
 
-And belive me, you need a _social_ person to do that! = ME!
+And belive me, you will need a _social_ person to do that! = ME!
 
 ---
 
