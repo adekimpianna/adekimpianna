@@ -6,8 +6,8 @@
 
 > _Pretty soon to be able to be your developer as well!_  
 
-* [Service](##What-do-I-do)
-* [Contact](##Where-to-reach-me)
+* [Service](##what-do-i-do)
+* [Contact](##where-to-reach-me)
 
 ---
 
@@ -38,10 +38,10 @@ And belive me, you need a _social_ person to do that! = ME!
 ---
 
 ## Where to reach me
-|Direct|Social Media|
-|:---|:---|
-|adek.impianna@gmail.com| [LinkedIn](https://github.com/adekimpianna) | 
-|+32 abcdefghijkl| [GitHub](https://www.linkedin.com/in/adek-impianna-62a119161/) | 
+| Direct | Social Media |
+|---|---|
+| adek.impianna@gmail.com | [Github](https://github.com/adekimpianna) | 
+| +32 abcdefghijkl | [LinkedIn](https://www.linkedin.com/in/adek-impianna-62a119161/) | 
 
 ---
 
