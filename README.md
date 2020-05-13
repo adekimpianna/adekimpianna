@@ -43,16 +43,10 @@ And belive me, you will need a _social_ person to do that! = ME!
 ## Where to reach me  
 
 | Direct | Social Media |  
- ------ | ------ 
+------ | ------ 
 | adek.impianna@gmail.com | [Github](https://github.com/adekimpianna) |  
 | +32 abcdefghijkl | [LinkedIn](https://www.linkedin.com/in/adek-impianna-62a119161/) | 
 
 ---
 
 ![calltoaction](2020-05-13-00-15-05.png)
-
-## Where to reach me
-| Direct | Social Media |
-| ------ | ------ |
-| adek.impianna@gmail.com | [Github](https://github.com/adekimpianna) | 
-| +32 abcdefghijkl | [LinkedIn](https://www.linkedin.com/in/adek-impianna-62a119161/) | 
